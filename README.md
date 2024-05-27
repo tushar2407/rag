@@ -3,6 +3,6 @@ This project is part of my spree to understand `LangChain` and use related techn
 
 The technologies I am using in this project include:
 - LangChain 🦜⛓️‍💥
-- LangSmith
+- LangSmith 🦜🛠️
 - OpenAI APIs
 - ChromaDB
